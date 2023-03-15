@@ -11,5 +11,5 @@
   <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="lucas-pic" height="150" style="border-radius:50px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/19f080ed-6208-4bcf-85e0-9f7e41fc3975-profile_image-300x300.pngwidth=676&height=676">
+  <img align="right" alt="lucas-pic" height="150" style="border-radius:50px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/19f080ed-6208-4bcf-85e0-9f7e41fc3975-profile_image-300x300.png width=676&height=676">
 </div>
