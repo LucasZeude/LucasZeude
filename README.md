@@ -11,7 +11,7 @@
   <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="This image was created with Picrew’s “PotatoLord’s Persona Creator“!!  https://picrew.me/share?cd=F6mJizAs4d #Picrew #PotatoLord’s_Persona_Creator>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
 </div>
 
   ##
