@@ -11,5 +11,17 @@
   <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="lucas-pic" height="150" style="border-radius:50px;" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2F19f080ed-6208-4bcf-85e0-9f7e41fc3975-profile_image-300x300.png&imgrefurl=https%3A%2F%2Fwww.twitch.tv%2Fzeudinho&tbnid=YBQDbRqOkljqrM&vet=12ahUKEwjG75yIxt79AhV7N7kGHVlMBkwQMygAegQIARAn..i&docid=W-EF7AnFwtuUEM&w=300&h=300&q=zeudinho&ved=2ahUKEwjG75yIxt79AhV7N7kGHVlMBkwQMygAegQIARAn width=676&height=676">
+  <img align="right" alt="lucas-pic" height="150" style="border-radius:50px;" src=" width=676&height=676">
+</div>
+
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UCamOCpj-dPyPrMGsvjyyRtQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lucaszss1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/zeudinho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/pE8GmTT8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucaszeude1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-z-112899185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
