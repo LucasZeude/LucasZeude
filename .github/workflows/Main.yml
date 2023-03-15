@@ -1,0 +1,23 @@
+name: Snake game
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install curses
+      - name: Run snake game
+        run: |
+          curl -s -o play.py https://raw.githubusercontent.com/sanchitgn/snake-game/main/snake.py
+          python play.py
