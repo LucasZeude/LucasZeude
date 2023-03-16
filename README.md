@@ -4,7 +4,7 @@
 - 🔭 tenho conhecimento com back-end mais precisamente em python porem, sou flexível a os estudos e trabalho com outras linguagens
 - 🌱 no momento estou me aprofundando nos estudos em django
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasZeude&show_icons=true&theme=transparent&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=transparent) <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasZeude&show_icons=true&theme=transparent&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=transparent)
 
 
 <div style="display: inline_block"><br>
@@ -12,7 +12,7 @@
   <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
 </div>
 
   ##
