@@ -1,7 +1,7 @@
 ### Ola eu sou Lucas Zeude 👋
 
 
-- 🔭 tenho conhecimento com back-end mais precisamente em python
+- 🔭 tenho conhecimento com back-end mais precisamente em python porem, sou flexível a os estudos e trabalho com outras linguagens
 - 🌱 no momento estou me aprofundando nos estudos em django
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasZeude&show_icons=true&theme=transparent&count_private=true)
